@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prak13</string>
+    <string name="Weather_Diary">Список контактов</string>
+    <string name="Welcome">Добро пожаловать</string>
+    <string name="Input">Ввод данных</string>
+    <string name="Output">Вывод данных</string>
+    <string name="Date">Группы</string>
+    <string name="DayTemp">Имя</string>
+    <string name="NightTemp">Номер</string>
+    <string name="Add">Добавить</string>
+    <string name="Weather">Контакты</string>
+    <string name="Change">Изменить</string>
+    <string name="AddCity">Добавить группу</string>
+    <string name="AddingACity">Добавление группы</string>
+    <string name="City">Группа</string>
+    <string name="Delete">Удалить</string>
+</resources>
